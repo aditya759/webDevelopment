@@ -1,1 +1,18 @@
+#para1
+{
+    font-weight: bolder;
+    background-color: aqua;
+    width:100%;
+}
 
+#content>h2{
+    text-align: center;
+    text-decoration: solid;
+   
+}
+#header-nav {
+  background-color: #f6b319;
+  border-radius: 0;
+  border: 0;
+}
+© 2020 GitHub, Inc
